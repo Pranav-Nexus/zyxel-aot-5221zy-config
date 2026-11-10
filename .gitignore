@@ -1,0 +1,5 @@
+# Ignore local personal files containing private credentials or network maps
+.private_backup/
+personal_*.md
+zyxel_work/
+*.log
